@@ -1,0 +1,96 @@
+{
+  "quadras": [
+    {
+      "id": 1,
+      "nome": "Quadra 1"
+    },
+    {
+      "id": 2,
+      "nome": "Quadra 2"
+    },
+    {
+      "id": 3,
+      "nome": "Quadra 3"
+    }
+  ],
+  "dias_semana": [
+    {
+      "id": 1,
+      "dia": "Segunda"
+    },
+    {
+      "id": 2,
+      "dia": "Terça"
+    },
+    {
+      "id": 3,
+      "dia": "Quarta"
+    },
+    {
+      "id": 4,
+      "dia": "Quinta"
+    },
+    {
+      "id": 5,
+      "dia": "Sexta"
+    },
+    {
+      "id": 6,
+      "dia": "Sábado"
+    },
+    {
+      "id": 7,
+      "dia": "Domingo"
+    }
+  ],
+  "horarios": [
+    {
+      "id": 1,
+      "id_dia_semana": 1,
+      "id_quadra": 1,
+      "horario_inicial": "08:00",
+      "horario_final": "09:00",
+      "preco": "100"
+    },
+    {
+      "id": 2,
+      "id_dia_semana": 2,
+      "id_quadra": 1,
+      "horario_inicial": "12:00",
+      "horario_final": "13:00",
+      "preco": "120"
+    },
+    {
+      "id": 3,
+      "id_dia_semana": 1,
+      "id_quadra": 2,
+      "horario_inicial": "09:00",
+      "horario_final": "10:00",
+      "preco": "120"
+    },
+    {
+      "id": 4,
+      "id_dia_semana": 5,
+      "id_quadra": 2,
+      "horario_inicial": "09:00",
+      "horario_final": "10:00",
+      "preco": "120"
+    },
+    {
+      "id": 5,
+      "id_dia_semana": 2,
+      "id_quadra": 3,
+      "horario_inicial": "10:00",
+      "horario_final": "11:00",
+      "preco": "130"
+    },
+    {
+      "id": 6,
+      "id_dia_semana": 7,
+      "id_quadra": 3,
+      "horario_inicial": "10:00",
+      "horario_final": "11:00",
+      "preco": "130"
+    }
+  ]
+}
